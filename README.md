@@ -1,5 +1,6 @@
 # Smart Home Operations Dashboard
 
+[![Portfolio check](https://github.com/SiteGuardly/smart-home-dashboard-case-study/actions/workflows/portfolio-check.yml/badge.svg)](https://github.com/SiteGuardly/smart-home-dashboard-case-study/actions/workflows/portfolio-check.yml)
 ![Python](https://img.shields.io/badge/Python-application-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-responsive%20UI-FF4B4B?logo=streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-local%20data-003B57?logo=sqlite&logoColor=white)
@@ -106,4 +107,14 @@ This project demonstrates experience with:
 ## Privacy and availability
 
 This is a **portfolio case study**. Production source code, device identifiers, network information, credentials and household data are intentionally kept private.
+
+## Evidence and maintenance
+
+The public documentation is checked automatically for missing local references and accidental secret-like assignments. Material portfolio updates are recorded in the [changelog](CHANGELOG.md) and versioned with GitHub releases.
+
+## Related work
+
+- [SiteGuardly platform case study](https://github.com/SiteGuardly/siteguardly-platform-case-study)
+- [ETF AI Bot case study](https://github.com/SiteGuardly/etf-ai-bot-case-study)
+- [Public WordPress workflow adapter demo](https://github.com/SiteGuardly/wordpress-workflow-adapter-demo)
 
